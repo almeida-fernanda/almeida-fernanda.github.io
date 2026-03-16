@@ -33,7 +33,7 @@ latest_posts:
 ---
 
 
-I am an applied microeconomist with research interests in political economy and development economics. My research lies in examining how internal migration shapes political dynamics, with a particular focus on disparities in redistribution.
+I am an applied microeconomist with research interests in political economy and development economics. 
 
 Currently, I am a PhD candidate in Economics at the Chair of International and Development Politics at Heidelberg University under the supervision of [Prof. Dr. Axel Dreher](https://axel-dreher.de/)  
 
