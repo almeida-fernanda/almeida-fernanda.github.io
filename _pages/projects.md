@@ -14,6 +14,8 @@ pagefind:
 
 - *Internal Migration and Redistribution: Evidence from Brazil* (with [**Tiago Ferraz**](https://sites.google.com/site/tiagopontesferraz/work-in-progress))
 
+- Digitalization and deforestation (with [**Mateus Maciel**](https://sites.google.com/view/mateusmaciel/research?authuser=0) and [**David Zuchowski**](https://sites.google.com/view/zuchowskidavid/research?authuser=0))
+
 - *Labour Market Integration* (with Catalina Lauer and Iván Pérez) 
 
 - *Deutsche Forschungsgemeinschaft (German Research Foundation), 
