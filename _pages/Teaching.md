@@ -10,12 +10,13 @@ nav_order: 6
 
 ### Teaching Assistant – Heidelberg University
 
-
+- **Empirical Public Choice** (Undergraduate), SS2026
 - **Development Economics I** (Graduate), WS 2023–2024, WS 2024–2025, WS 2025-2026
 - **Impact Evaluations of Social Programs** (Graduate), WS 2024-2025
 - **Topics in Development Economics** (Graduate), SS 2024
 - **Geospatial Analysis with R for Development** (Graduate), WS 2023–2024
 
+Bachelor and Master theses co-supervision
 
 ### Lecturer – SRH University Campus Heidelberg
 
