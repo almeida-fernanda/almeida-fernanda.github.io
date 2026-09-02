@@ -5,7 +5,7 @@ permalink: /
 subtitle: >
   Research Associate at the <a href='https://axel-dreher.de/team/'>Chair of
   International and Development Politics</a>, Heidelberg University<br>
-  Research Affiliate at <a href='https://glabor.org/user/farj02/'>the Global
+  Research Affiliate at the <a href='https://glabor.org/user/farj02/'> Global
   Labor Organization (GLO)</a>
 profile:
   align: right
