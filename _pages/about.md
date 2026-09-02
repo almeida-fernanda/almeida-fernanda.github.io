@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: "Research Associate at the <a href='https://axel-dreher.de/team/'>Chair of International and Development Politics</a>, Heidelberg University"
-
+subtitle: "Research Associate at the <a href='https://axel-dreher.de/team/'>Chair of International and Development Politics</a>, Heidelberg University, and Research Affiliate at <a href='https://glabor.org/user/farj02/'>the Global Labor Organization (GLO)"
 profile:
   align: right
   image: prof_pic.jpg
