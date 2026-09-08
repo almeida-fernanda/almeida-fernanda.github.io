@@ -16,7 +16,7 @@ pagefind:
 
 - Digitalization and deforestation (with [**Mateus Maciel**](https://sites.google.com/view/mateusmaciel/research?authuser=0) and [**David Zuchowski**](https://sites.google.com/view/zuchowskidavid/research?authuser=0))
 
-- *Labour Market Integration* (with Catalina Lauer and Iván Pérez)
+- *Labour Market Integration* (with [**Catalina Lauer**](https://sites.google.com/view/catalinalauer/bio) and [**Iván Pérez**](https://www.wzb.eu/de/personen/ivan-felipe-perez-carrillo))
 
 - Let’s connect: Mobile internet and fertility behavior (with [**Charlotte Eisvogel**](https://charlotte.eisvogel.net/index.html), [**Mateus Maciel**](https://sites.google.com/view/mateusmaciel/research?authuser=0), and [**David Zuchowski**](https://sites.google.com/view/zuchowskidavid/research?authuser=0))
 
