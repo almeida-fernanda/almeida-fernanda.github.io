@@ -18,7 +18,7 @@ pagefind:
 
 - *Labour Market Integration* (with Catalina Lauer and Iván Pérez)
 
-- Let’s connect: Mobile internet and fertility behavior (with [**Charlotte Eisvogel**] https://charlotte.eisvogel.net/index.html), [**Mateus Maciel**](https://sites.google.com/view/mateusmaciel/research?authuser=0), and [**David Zuchowski**](https://sites.google.com/view/zuchowskidavid/research?authuser=0))
+- Let’s connect: Mobile internet and fertility behavior (with [**Charlotte Eisvogel**] (https://charlotte.eisvogel.net/index.html), [**Mateus Maciel**](https://sites.google.com/view/mateusmaciel/research?authuser=0), and [**David Zuchowski**](https://sites.google.com/view/zuchowskidavid/research?authuser=0))
 
 - *Deutsche Forschungsgemeinschaft (German Research Foundation), 
   “Latitude and Lending: Mapping and Evaluating Official Development Assistance,” 
