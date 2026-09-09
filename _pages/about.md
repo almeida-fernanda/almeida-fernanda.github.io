@@ -4,7 +4,7 @@ title: About
 permalink: /
 subtitle: >
   Research Associate at the <a href="https://axel-dreher.de/team/">Chair of International and Development Politics</a>, Heidelberg University<br>
-  Research Affiliate at the <a href="https://glabor.org/user/farj02/">Global Labor Organization (GLO)</a> and at the <a href="https://sites.google.com/view/quantecon-ufrj/home">Quantitative Economics group</a> at the Institute of Economics of the Federal University of Rio de Janeiro.
+  Research Affiliate at the <a href="https://glabor.org/user/farj02/">Global Labor Organization (GLO)</a> and at the <a href="https://sites.google.com/view/quantecon-ufrj/home">Quantitative Economics group</a>, Federal University of Rio de Janeiro (UFRJ)
 profile:
   align: right
   image: prof_pic.jpg
