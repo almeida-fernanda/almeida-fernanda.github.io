@@ -7,21 +7,18 @@ nav_order: 3
 pagefind:
   exclude: true
 ---
+## Working Paper
 
+- - [Digitalization and deforestation: Here Comes the Signal: Mobile Internet and Deforestation in Brazil](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=...) (with [**Mateus Maciel**](https://sites.google.com/view/mateusmaciel/research?authuser=0) and [**David Zuchowski**](https://sites.google.com/view/zuchowskidavid/research?authuser=0))
 
 ## In progress
 
 
 - *Internal Migration and Redistribution: Evidence from Brazil* (with [**Tiago Ferraz**](https://sites.google.com/site/tiagopontesferraz/work-in-progress))
 
-- Digitalization and deforestation (with [**Mateus Maciel**](https://sites.google.com/view/mateusmaciel/research?authuser=0) and [**David Zuchowski**](https://sites.google.com/view/zuchowskidavid/research?authuser=0))
-
 - *Labour Market Integration* (with [**Catalina Lauer**](https://sites.google.com/view/catalinalauer/bio) and [**Iván Pérez**](https://www.wzb.eu/de/personen/ivan-felipe-perez-carrillo))
 
-- Let’s connect: Mobile internet and fertility behavior (with [**Charlotte Eisvogel**](https://charlotte.eisvogel.net/index.html), [**Mateus Maciel**](https://sites.google.com/view/mateusmaciel/research?authuser=0), and [**David Zuchowski**](https://sites.google.com/view/zuchowskidavid/research?authuser=0))
+- *Let’s connect: Mobile internet and fertility behavior* (with [**Charlotte Eisvogel**](https://charlotte.eisvogel.net/index.html), [**Mateus Maciel**](https://sites.google.com/view/mateusmaciel/research?authuser=0), and [**David Zuchowski**](https://sites.google.com/view/zuchowskidavid/research?authuser=0))
 
-- *Deutsche Forschungsgemeinschaft (German Research Foundation), 
-  “Latitude and Lending: Mapping and Evaluating Official Development Assistance,” 
-  2025–2027*  
-  **PIs:** Dr. Pietro Bomprezzi and Prof. Dr. Axel Dreher
+- *Mapping the Local Effects of Foreign Aid* (with Pietro Bomprezzi, Axel Dreher, Silvia Marchesi, Jingke Pan, Charlotte Robert, and Thomas Schiller)
 
