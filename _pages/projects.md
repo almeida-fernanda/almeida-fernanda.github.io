@@ -9,7 +9,7 @@ pagefind:
 ---
 ## Working Paper
 
-- - [Digitalization and deforestation: Here Comes the Signal: Mobile Internet and Deforestation in Brazil](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=...) (with [**Mateus Maciel**](https://sites.google.com/view/mateusmaciel/research?authuser=0) and [**David Zuchowski**](https://sites.google.com/view/zuchowskidavid/research?authuser=0))
+- - [Here Comes the Signal: Mobile Internet and Deforestation in Brazil](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=...) (with [**Mateus Maciel**](https://sites.google.com/view/mateusmaciel/research?authuser=0) and [**David Zuchowski**](https://sites.google.com/view/zuchowskidavid/research?authuser=0))
 
 ## In progress
 
