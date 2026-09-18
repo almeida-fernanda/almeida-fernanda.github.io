@@ -11,7 +11,7 @@ pagefind:
 
 - [Here Comes the Signal: Mobile Internet and Deforestation in Brazil](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7459860) (with [**Mateus Maciel**](https://sites.google.com/view/mateusmaciel/research?authuser=0) and [**David Zuchowski**](https://sites.google.com/view/zuchowskidavid/research?authuser=0))
 
-## In progress
+## Work in progress
 
 
 - *Internal Migration and Redistribution: Evidence from Brazil* (with [**Tiago Ferraz**](https://sites.google.com/site/tiagopontesferraz/work-in-progress))
