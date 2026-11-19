@@ -22,3 +22,5 @@ pagefind:
 
 - *Mapping the Local Effects of Foreign Aid* (with Pietro Bomprezzi, Axel Dreher, Silvia Marchesi, Jingke Pan, Charlotte Robert, and Thomas Schiller)
 
+- - *Oil and Corruption* (with Axel Dreher and Jingke Pan)
+
